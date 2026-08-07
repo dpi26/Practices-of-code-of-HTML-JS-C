@@ -1,43 +1,21 @@
 #include<stdio.h>
-void main()
+int main()
 {
+    int m,n;
+    printf("enter the number:");
+    scanf("%d",&m);
 
- //print pattern in right
+  printf("enter the number:");
+    scanf("%d",&n);
 
-int i,j;
-for ( i = 1; i <=4; i++)                   
-{
-    for ( j =1; j <=5; j++)
+    for(int i=1;i<=m;i++)
     {
-        printf("%c ",j+64);
-    }
-    printf("\n");
-}
-
- //print pattern in oposite 
-
-for (int x = 4; x>=1; x--)           
-{
-    for (int y=4; y >=1; y--)
-    {
-    printf("%d ",x);
-    }
-    printf("\n");
-  
-}
-
-//pattern in trianglr
-
-
-
-
-
-
-
-
-
-
-
-
-    
+     //for(int i=1;i<=n;i++)
+     for(int j=1;j<=n;j++){
+        printf("%d ",j);
+     }
+     printf("\n");
+       }
+     
+    return 0;
 }
