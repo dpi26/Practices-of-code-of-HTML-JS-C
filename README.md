@@ -11,3 +11,4 @@ hellow dipti this program ,this is very useful for user.
 this is used for program .
 realy it make good for program.
 here we collect all  file of c language..
+* This repo generated for practice of code and learning regularly.
