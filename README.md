@@ -12,3 +12,4 @@ this is used for program .
 realy it make good for program.
 here we collect all  file of c language..
 * This repo generated for practice of code and learning regularly.
+* this contain all html, c++ and js fie of my practice 
