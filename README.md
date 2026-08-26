@@ -10,6 +10,6 @@ this is  my project and program and writen in html.
 hellow dipti this program ,this is very useful for user.
 this is used for program .
 realy it make good for program.
-here we collect all  file of c language..
+here we collect all  file of c language.
 * This repo generated for practice of code and learning regularly.
 * This is contain all html, c++ and js fie of my practice . then solved all the questions and work continousely.this all file uploaded by git and github and these work and uploading all files.
