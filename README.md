@@ -1,5 +1,5 @@
 # Dipti
-this is my all files where various file are uploaded and that file saved with extentions and with brief description
+this is my all files where various file are uploaded and that file saved with extentions and with brief description.
 Git repository.
 here my introduction only.
 hey hellow .
